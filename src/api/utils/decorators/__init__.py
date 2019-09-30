@@ -1,0 +1,1 @@
+from .utility_decorators import register_api_version

@@ -1,0 +1,6 @@
+/*.json
+credentials/
+/notes.txt
+**/__pycache__/
+.vscode/
+venv/
