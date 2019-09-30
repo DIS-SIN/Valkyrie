@@ -8,7 +8,7 @@ Valkeyrie is a python GraphQL client which serves as the evalhalla backend, prov
 
 In case you're interested. Valkyrie uses the following main components
 
-- [Goog Natural Language API](https://cloud.google.com/natural-language/docs/quickstarts): Used to get sentiment values for text
+- [Google Natural Language API](https://cloud.google.com/natural-language/docs/quickstarts): Used to get sentiment values for text
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/): Micro web framework for python
 - [sgqlc](https://github.com/profusion/sgqlc): GraphQL client for python with schema introspection to generate native python object
 - [Flask-RESTful](https://flask-restful.readthedocs.io/en/latest/): Utility to efficiently create API views
