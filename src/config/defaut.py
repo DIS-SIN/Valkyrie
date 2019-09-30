@@ -25,7 +25,7 @@ VARIABLES= {
     },
     "ENABLE_NATURAL_LANGUAGE_PROCESSING":{
         "description": "Flag to enable or disable natural language processing",
-        "required": True,
+        "required": False,
         "default": True 
     }
 }
