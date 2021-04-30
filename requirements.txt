@@ -35,7 +35,7 @@ pytz==2019.2
 query-string==2019.4.13
 request==2019.4.13
 requests==2.22.0
-rsa==4.0
+rsa==4.7
 Rx==1.6.1
 sgqlc==8.0
 six==1.12.0
